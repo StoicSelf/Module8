@@ -1,1 +1,7 @@
 # Module8
+# The project in Module 7 was made to collect purchase data from items in a file and summarize them into an easier to read format.
+# In order to complete the assignment, I utilized maps effectively to keep data in an efficient and easy to access form. Thanks to maps, I only needed one variable to store all my item information and accessing it was relatively simple by finding the index of whatever item I needed and accessing its associated value.
+# One of the assignments requirements was to include a class. I never utilized the class I made as it had been far less efficient than using a map. In order to improve my score on the assignment I could find a better way to utilize the class.
+# At first finding out how to loop through the items in the file was difficult as it would always steal a letter from another line but after figuring out how to properly utilize .ignore() I was able to overcome my troubles.
+# As a wannabe data analyst, accessing files and looping through them for particular information would be a great help to scrape data and organize it into more understandable and summarized forms that judgements could be made from.
+# In order to make the program readable and organized, I separated my code into paragraph-like groups, leaving empty lines where the purpose changes, and commented at the top of each paragraph what was being done in the code. This would make it easier for someone to read and understand what I was doing with each section. 
